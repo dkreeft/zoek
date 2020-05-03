@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://gitlab.com/dkreeft/zoek">
-<img align="center" src="https://gitlab.com/dkreeft/zoek/-/blob/master/logo.png"/>
+<img align="center" src="https://gitlab.com/dkreeft/zoek/-/raw/master/logo.png"/>
 </a>
 </p>
 
