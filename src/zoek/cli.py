@@ -3,9 +3,9 @@ import operator
 import time
 from os import getcwd
 from zoek.generator_from_path import generator_from_path
-from zoek._filter_attr import filter_attr
-from zoek.print_iterable import print_iterator
+from zoek.print_iterator import print_iterator
 from zoek._custom_operators import string_contains, string_begins_with
+from zoek._filter_attr import filter_attr
 
 
 @click.command()
