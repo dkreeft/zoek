@@ -8,6 +8,9 @@ dev_requirements = [
     'pytest',
     'pytest-flake8',
     'pytest-cov',
+]
+
+build_requirements = [
     'setuptools>=38.6.0',
     'twine>=1.11.0',
     'wheel>=0.31.0',
@@ -35,7 +38,8 @@ setup(
     python_requires='>=3.6',
     install_requires=base_requirements,
     extras_require={
-        'dev': dev_requirements
+        'dev': dev_requirements,
+        'build': [dev_requirements, build_requirements],
     },
     entry_points={
         'console_scripts': [
