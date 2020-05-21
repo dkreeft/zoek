@@ -5,6 +5,10 @@
 </p>
 
 # zoek - find files and directories
+<p align="center">
+<a href="https://gitlab.com/dkreeft/zoek/"><img src="https://gitlab.com/dkreeft/zoek/badges/master/pipeline.svg?style=flat alt="pipeline status"></a>
+<a href="https://gitlab.com/dkreeft/zoek/"><img src="https://gitlab.com/dkreeft/zoek/badges/master/coverage.svg?style=flat" alt="code coverage"></a>
+</p>
 
 zoek (Dutch for "search") is a Python library and command-line utility aiming to duplicate and extend the functionality of the find command-line utility.
 
