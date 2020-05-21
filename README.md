@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://gitlab.com/dkreeft/zoek">
-<img align="center" src="https://gitlab.com/dkreeft/zoek/-/raw/master/logo.png"/>
+<a href="https://gitlab.com/dkreeft/pycasino">
+<img align="center" src="https://gitlab.com/dkreeft/zoek/-/raw/master/logo.png" width="174" height="170" />
 </a>
 </p>
 
