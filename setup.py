@@ -43,7 +43,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'zoek = zoek.cli:main'
+            'zoek = zoek.cli:fetch'
         ]
     }
 )
